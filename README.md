@@ -24,17 +24,17 @@ This project is a WebMapping application developed with HTML, JavaScript, OpenLa
 ![Web Interface 1](images/1.PNG)
 *Web Interface*
 
-![Web Interface 2](images/2.png)
+![Web Interface 2](images/2.PNG)
 *Web Interface*
 
 ### Postman Interaction
 
-![Postman](images/3.png)
+![Postman](images/4.PNG)
 *Postman*
 
 ### GeoServer Layers Creation
 
-![GeoServer Layers](images/4.png)
+![GeoServer Layers](images/3.PNG)
 *Geoserver layers*
 
 ## Contributors
