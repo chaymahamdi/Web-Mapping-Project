@@ -21,20 +21,20 @@ This project is a WebMapping application developed with HTML, JavaScript, OpenLa
 2. Open the `osm_gs.html` file in a web browser.
 
 ## Figures
-![Web Interface 1](path/to/image1.png)
+![Web Interface 1](images/1.png)
 *Web Interface*
 
-![Web Interface 2](path/to/image2.png)
+![Web Interface 2](images/2.png)
 *Web Interface*
 
 ### Postman Interaction
 
-![Postman](path/to/postman.png)
+![Postman](images/3.png)
 *Postman*
 
 ### GeoServer Layers Creation
 
-![GeoServer Layers](path/to/geoserver.png)
+![GeoServer Layers](images/4.png)
 *Geoserver layers*
 
 ## Contributors
