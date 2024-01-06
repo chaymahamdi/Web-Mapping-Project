@@ -18,7 +18,11 @@ This project is a WebMapping application developed with HTML, JavaScript, OpenLa
 
 1. Clone the repository.
 
-2. Open the `osm_gs.html` file in a web browser.
+2. Open Elasticsearch and ensure it's running.
+
+3. Open GeoServer and follow the setup instructions.
+
+4. Open the `osm_gs.html` file in a web browser.
 
 ## Figures
 ![Web Interface 1](images/1.PNG)
